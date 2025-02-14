@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharath-inukurthi" alt="bharath-inukurthi" /></a> </p>
 
-- 🔭 I’m currently working on **anemia detection model using deep learning**
+- 🔭 I’m currently working on **A app that make students let know the availability of Professors to meet in KARE campus**
 
-- 🌱 I’m currently learning **tensorflow,opencv,matplotlib**
+- 🌱 I’m currently learning **NLP,pydentic,AI Agents**
 
 - 👯 you can connect with me in [https://www.linkedin.com/in/bharath-kumar-inukurthi/](https://www.linkedin.com/in/bharath-kumar-inukurthi/)
 
