@@ -11,7 +11,7 @@
 
 - 👯 you can connect with me in [https://www.linkedin.com/in/bharath-kumar-inukurthi/](https://www.linkedin.com/in/bharath-kumar-inukurthi/)
 
-- 👨‍💻 All of my projects are available at [https://everything-about-bharath.webflow.io/](https://everything-about-bharath.webflow.io/)
+- 👨‍💻 All of my projects are available at @github
 
 - 📫 How to reach me **bharathinukurthi1@gmail.com**
 
